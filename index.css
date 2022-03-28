@@ -71,9 +71,8 @@ img {
   color: white;
   text-decoration: none;
   margin-bottom: 20px;
-  /*======= create a background property. Set the value to #F87B99 
+  /*======= create a background property. Set the value to #F87B99 */
   background-color: #F87B99;
-*/
   
 }
 
@@ -106,6 +105,7 @@ section.about {
 */
 
 section.contact-section address {
+  text-decoration: none;
   line-height: 2;
 }
 
